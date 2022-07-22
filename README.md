@@ -36,6 +36,6 @@ The website is filtered through the search on the left side of the page and it c
 A major drawback of this design is users have no idea what they're looking for when they are entering the site. They may be curious about a certain shape or state or city for which no data exists in the table. The filter option is flawed in the sense you have to look at the key words in the table and enter based on what exists already that you see. 
 
 Below are the following solutions:
- -Drop down bar to see what can be selected from in the dataset
- -If spelt incorrectly, option for nearest spelling
- -Map to see the sightings and how close or far they are from each other
+ - Drop down bar to see what can be selected from in the dataset
+ - If spelt incorrectly, option for nearest spelling
+ - Map to see the sightings and how close or far they are from each other
