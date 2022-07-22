@@ -16,19 +16,19 @@ The website is filtered through the search on the left side of the page and it c
 
 2. Search by City - Search for sighting can be specific to certain cities. Example, uxbridge.
 
-![Picture_2](static\Images\Step2.png)
+![Picture_2](https://github.com/kareng013/UFOs/blob/main/static/Images/Step2.png)
 
 3. Search by State - Use the "XX" format for states to search by the abbreviations. Example, AZ.
 
-![Picture_3](C:\Users\Karen\OneDrive\Desktop\UFT Data Analytics\Module 11 - Javascript\UFOs\static\Images\Step3.png)
+![Picture_3](https://github.com/kareng013/UFOs/blob/main/static/Images/Step3.png)
 
 4. Search by Country - Search by country to get the bigger picture of the different sightings. 
 
-![Picture_4](C:\Users\Karen\OneDrive\Desktop\UFT Data Analytics\Module 11 - Javascript\UFOs\static\Images\Step4.png)
+![Picture_4](https://github.com/kareng013/UFOs/blob/main/static/Images/Step4.png)
 
 5. Search by Shape - Search the shape of the UFO by typing any shape in the data. Example, circle.
 
-![Picture_5](C:\Users\Karen\OneDrive\Desktop\UFT Data Analytics\Module 11 - Javascript\UFOs\static\Images\Step5.png)
+![Picture_5](https://github.com/kareng013/UFOs/blob/main/static/Images/Step5.png)
 
 
 ## Summary
